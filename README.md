@@ -11,4 +11,4 @@ pandastable 0.13.0;
 tkinter 8.6
 
 A gmm_app.py megnyitása után futtatni kell a teljes kódot, és meg is nyílt a program. Az alkalmazás használati útmutatója TDK-dolgozatom VII. 3. 1. fejezetében található.
-A proba_adat egy régebbi mérés .csv fájlja, amellyel a GMM és a véletlen erdő alkalmazás működését is ki lehet próbálni.
+A proba-300.csv egy régebbi mérés adatait tartalmazza, amellyel a GMM és a véletlen erdő alkalmazás működését is ki lehet próbálni. Mivel 300-nál történt az ingerlés a próba adatsor esetében, a véletlen erdő modellben semmit sem kell átalakítani.
